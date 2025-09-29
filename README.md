@@ -8,6 +8,14 @@ The project covers **Exploratory Data Analysis (EDA)**, **preprocessing**, **tra
 
 ---
 
+
+· Mini Project: Building a Supervised Learning Model
+· Tasks
+
+· Task 1: Perform Exploratory Data Analysis and Preprocessing
+· Task 2: Train and Evaluate Multiple Models
+· Task 3: Summarise Findings in a Report
+
 ## 📌 Tasks
 
 ### ✅ Task 1: Perform Exploratory Data Analysis and Preprocessing
